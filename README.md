@@ -1,1 +1,1 @@
-# imc_calc
+Simple IMC calculator APP, builded with Flutter.
